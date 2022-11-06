@@ -6,7 +6,7 @@ At present ***looking for*** an interesting ***remote job***.
  I'm learning *Python* right now.
 ## My tech-stack:
 - C++, C#, CMake, clang, GCC, Git, Github
-- Visual Studio, VS Code, CLion, Unity.
+- Visual Studio, VS Code, CLion, PyCharm, Rider, Unity.
 
 I'm passionate about game engines,  graphics programming, and all the low-level stuff around it.
 
