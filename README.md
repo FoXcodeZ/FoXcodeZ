@@ -5,7 +5,7 @@ At present ***looking for*** an interesting ***remote job***.
 
  I'm learning *Java* right now.
 ## My tech stack:
-- HTML, CSS, SASS, JavaScript, Python, Flask, Jinja
+- HTML, CSS, SASS, JavaScript, Python, Flask, Jinja, SQL, PostgreSQL
 - C++, CMake, clang, GCC
 - C#, Unity
 
