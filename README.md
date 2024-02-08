@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⭐ I'm passionate about new technologies, AI, and augmented reality.<br><br>🌱 I'm Currently Learning:<br>How to integrate a secure payment system into a Spring Boot application.<br><br>🛠️ I'm Working On:<br>Currently, I am developing a web store application for a client in the game development industry.</p>
+<p align="left">⭐ I'm passionate about new technologies, AI, and augmented reality.<br><br>🌱 I'm Currently Learning:<br>How to integrate a secure payment system into a Spring Boot application.<br><br>🛠️ I'm Working On: <br>I've just begun developing a web store application for a client within the game development industry.</p>
 
 ###
 
