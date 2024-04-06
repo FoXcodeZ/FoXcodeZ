@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  ⭐ I'm passionate about new technologies, AI, and augmented reality.<br><br>
+  ⭐ I'm passionate about new technologies, AI, GameDev and augmented reality.<br><br>
   🌱 I'm Currently Learning:<br>Docker and Kubernetes<br><br>
   🛠️ I'm Working On: <br>My own simple CMS blogging system for my website.
 </p>
